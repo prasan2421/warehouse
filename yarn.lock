@@ -5290,6 +5290,11 @@ react-native-design-utility@^0.0.30:
     fs-extra "^7.0.0"
     lodash.get "^4.4.2"
 
+react-native-device-info@^1.5.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-1.8.0.tgz#98a7e3adb4e3d377eeba9c751bda03b2d7f9da35"
+  integrity sha512-pGSMzU/ywpJT97bIrC94p0JgNn6VZT4Rrfo9F47PfAfIfQJvsqSef3ulimr6FeUkK1nEfp0oRByV35OaOt+uZA==
+
 react-native-drawer@2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/react-native-drawer/-/react-native-drawer-2.5.1.tgz#08b9314184f48c724f1b467f8859797369798654"
@@ -6846,9 +6851,9 @@ xtend@~4.0.1:
   integrity sha1-pcbVMr5lbiPbgg77lDofBJmNY68=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
